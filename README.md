@@ -7,7 +7,7 @@ The goal of this project is to develop a basic Resume Parser that can automatica
 Recruiters often receive hundreds of resumes for a single job posting, making manual screening time-consuming and inefficient. There is a need for a simple tool that can automatically extract and summarize relevant information from resumes to streamline the initial screening process.
 
 ## 3. Objectives
-- Extract text from a resume in PDF format.
+- Extract text from a resume in PDF format. (should be named `resume.pdf`)
 - Identify and extract the candidate’s:
   - Email address
   - Phone number
