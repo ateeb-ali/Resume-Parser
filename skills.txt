@@ -1,0 +1,16 @@
+Python
+Java
+C++
+SQL
+HTML
+CSS
+JavaScript
+Excel
+Git
+Machine Learning
+Deep Learning
+Linux
+Power BI
+Github
+Information Security
+CTF
